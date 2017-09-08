@@ -1,0 +1,22 @@
+.nav-left{
+	font-size: 18px;
+},
+.domains{
+	font-size: 28px;
+	font-weight: bolder;
+	},
+	
+.sub{
+		font-weight: bold;
+		font-family: verdana;
+		background-color : red;
+	},
+.content{
+		color : #182153;
+		background-color : red;
+	},
+	
+.panel-heading{
+	font-size: 38px;
+	font-weight: bolder;
+}

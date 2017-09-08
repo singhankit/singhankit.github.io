@@ -1,0 +1,18 @@
+{"projects":[
+
+{"Pname":"InfyRetail Application",
+"about":"A web application to show top customers based on the region, country.Also coustomers can choose any plan or change any time.",
+"technologies":"Java, Hibrenet, Ajax, Javascript"
+},
+{"Pname":"PyangMan",
+"about":"A word guessing game in limited attempts in different categories.",
+"technologies":"Python"
+},
+{"Pname":"Online Aptica",
+"about":"A web application to take aptitude test in different domains. A insitute can also conduct the test for its student",
+"technologies":"Java,Servlet,JSP, Javascript"
+}
+]
+
+
+}

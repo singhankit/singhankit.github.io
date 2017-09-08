@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <table class="table table-striped"">
+    <thead>
+      <tr class="domains">
+        <th>Domain</th>
+        <th>Skillset</th>
+      </tr>
+    </thead>
+    <tbody>
+ 
+      <tr ng-repeat="item in myData.skillset">
+        <td>{{item.name}}</td>
+        <td>{{item.set}}</td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
+</body>
+</html>

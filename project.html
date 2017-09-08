@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+  <table class="table table-striped"">
+    <thead>
+      <tr>
+        <th>Projects</th>
+ 
+      </tr>
+    </thead>
+    <tbody>
+ 
+      <tr ng-repeat="item in myProjects.projects">
+        <td class="domains"><b>{{item.Pname}}</b></td>
+        <td><ul>
+        <li><b>Description:</b>{{item.about}}</li>
+        <li><b>Technologies Used:</b>{{item.technologies}}</li>
+        
+        </ul></td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
+</body>
+</html>

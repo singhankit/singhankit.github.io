@@ -1,0 +1,21 @@
+{"skillset":[
+
+{"name":"Programming Language",
+"set":"Java, Python"
+},
+{"name":"Databases",
+"set":"Mysql, Oracle, Pl/sql"
+},
+{"name":"UI Technologies",
+"set":"HTML, CSS, Boostrap, AngularJS"
+},
+{"name":"Java",
+"set":"Core java, JSP, Servlet, Spring"
+},
+{"name":"Operating Systems",
+"set":"Windows, Linux"
+}
+]
+
+
+}
