@@ -1,3 +1,8 @@
+.sub{
+		font-weight: bold;
+		font-family: verdana;
+		background-color : red;
+	},
 .nav-left{
 	font-size: 18px;
 },
@@ -6,11 +11,6 @@
 	font-weight: bolder;
 	},
 	
-.sub{
-		font-weight: bold;
-		font-family: verdana;
-		background-color : red;
-	},
 .content{
 		color : #182153;
 		background-color : red;
