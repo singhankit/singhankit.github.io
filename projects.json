@@ -1,15 +1,15 @@
 {"projects":[
 
 {"Pname":"InfyRetail Application",
-"about":"A web application to show top customers based on the region, country.Also coustomers can choose any plan or change any time.",
-"technologies":"Java, Hibrenet, Ajax, Javascript"
+"about":"A retail enterprise solution, which offers variety of plans to retailers. End users can see top customers based on region, any customers can upgrade or downgrade their plan.  Customers will be awarded based on their purchase.",
+"technologies":"Java, Hibrenet, Ajax, Javascript, AngularJS, SQL"
 },
 {"Pname":"PyangMan",
-"about":"A word guessing game in limited attempts in different categories.",
+"about":"A word guessing game in different categories.Dashboard can be viewed according to different filters such as total score, region, categoty etc.",
 "technologies":"Python"
 },
 {"Pname":"Online Aptica",
-"about":"A web application to take aptitude test in different domains. A insitute can also conduct the test for its student",
+"about":"A web application to take aptitude test in different domains. A insitute can also conduct tests for its student",
 "technologies":"Java,Servlet,JSP, Javascript"
 }
 ]
