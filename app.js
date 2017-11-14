@@ -7,7 +7,7 @@ app.controller("myController",function($http,$scope){
 	 $http.get("projects.json").then(function(response) {	
 	        $scope.myProjects = response.data;	        
 	    });
-	$scope.message="hi there from controller";
+	//$scope.message="hi there from controller";
 	$scope.check=true;
 	$scope.hidecontainer=function(){
 		$scope.check=false;
